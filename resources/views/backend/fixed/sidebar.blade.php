@@ -47,7 +47,7 @@
                             <span class="nav-text">Dashboard</span>
                         </a>
                     </li>
-                    
+
 
 <li>
     <a class="has-arrow ai-icon" href="javascript:void()" aria-expanded="false">
@@ -266,6 +266,33 @@ Canceled
                             
                         </ul>
                     </li>
+
+                    <li>
+    <a href="javascript:;" class="has-arrow" aria-expanded="false">
+        
+            <span class="fas fa-money-bill"></span>
+             <span>Shipping</span>
+       
+    </a>
+    <ul>
+                  <li>
+               <a >Carriers</a>
+           </li>
+                           <li>
+                <a>Shipping Rates</a>
+            </li>
+        
+                    <li data-position="2">
+                <a>Pickup Locations</a>
+            </li>
+                            <li>
+                <a >Shipping Orders</a>
+            </li>
+                            <li>
+                <a >Configuration</a>
+            </li>
+            </ul>
+</li>
 
                      
 
