@@ -275,11 +275,12 @@ Canceled
                         </a>
                              </li>
 
-                             <li><a>
-<i class="tio-gift nav-icon"></i>
-<span class="navbar-vertical-aside-mini-mode-hidden-elements text-truncate">Coupon</span>
-</a>
-</li>
+                             <li><a class="has-arrow ai-icon" href="javascript:void()" aria-expanded="false">
+                            <i class="tio-gift nav-icon"></i>
+                            <span class="nav-text">Coupon</span>
+                        </a>
+                             </li>
+
 
 
 
