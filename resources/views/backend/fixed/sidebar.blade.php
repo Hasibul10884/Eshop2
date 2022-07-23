@@ -276,7 +276,8 @@ Canceled
                              </li>
 
                              <li><a class="has-arrow ai-icon" href="javascript:void()" aria-expanded="false">
-                            <i class="tio-gift nav-icon"></i>
+                             <i class="fa fa-gift" aria-hidden="true"></i>
+
                             <span class="nav-text">Coupon</span>
                         </a>
                              </li>
