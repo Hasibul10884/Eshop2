@@ -105,14 +105,14 @@
         <span>Products</span>
     </a>
     <ul>
-        <li>
-            <a>
+        <li >
+            <a href="{{route('add.product')}}">
             <i class="fa-brands fa-product-hunt"></i>
                 <span>Add Product</span>
             </a>
         </li>
         <li>
-            <a>
+            <a href="{{route('list.product')}}">
             <i class="fa-brands fa-product-hunt"></i>
                 <span>Product List</span>
             </a>
